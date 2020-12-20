@@ -11,7 +11,7 @@
  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
 </div>
 
-## Find me on 👇
+#### Find me on 👇
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/caio-vinicius-275b6a199//)](https://www.linkedin.com/in/https://www.linkedin.com/in/caio-vinicius-275b6a199//)
 
 <!--
