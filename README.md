@@ -1,5 +1,5 @@
 ### Hi there 👋
-![caiov13's github stats](https://github-readme-stats.vercel.app/api?username=caiov13&show_icons=true&theme=radical)
+![caiov13's github stats](https://github-readme-stats.vercel.app/api?username=caiov13&show_icons=true&theme=dark)
 <!--
 **caiov13/caiov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
