@@ -1,6 +1,6 @@
 ## Hi i'm Caio Vinicius 👋 
 
-
+#### My name is caio vinicius, i'm currently studying analysis and systems development, and studying programming.
 
 
 
@@ -13,8 +13,6 @@
  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
  <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
 </div>
-
-
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/caio-vinicius-275b6a199//)](https://www.linkedin.com/in/https://www.linkedin.com/in/caio-vinicius-275b6a199//)
