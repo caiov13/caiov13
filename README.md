@@ -1,6 +1,19 @@
 ## Hi i'm Caio Vinicius 👋 
 
 
+
+
+
+
+### technologies i study🚀
+<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" alt="mongodb" width="30" height="30"/>
+ <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" alt="react" width="30" height="30"/> 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/caio-vinicius-275b6a199//)](https://www.linkedin.com/in/https://www.linkedin.com/in/caio-vinicius-275b6a199//)
 <!--
 **caiov13/caiov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
