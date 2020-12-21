@@ -2,7 +2,7 @@
 
 #### My name is caio vinicius, i'm currently studying analysis and systems development, and studying programming.
 
-### technologies i study🚀
+### Technologies i study🚀
 <div class="row">
  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/>
  <img src="https://devicons.github.io/devicon/devicon.git/icons/git/git-original.svg" alt="git" width="30" height="30"/>
