@@ -4,11 +4,11 @@
 
 ### Technologies i study🚀
 <div class="row">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="mongodb" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> 
+ <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="40" height="40"/>
+ <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
+ <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+ <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
+ <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/> 
 </div>
 
 #### Find me on 👇
