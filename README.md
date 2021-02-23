@@ -11,7 +11,7 @@
  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/> 
 </div>
 
-#### Find me on 👇
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vinicius-275b6a199/)](https://www.linkedin.com/in/caio-vinicius-275b6a199/)
 <!--
 **caiov13/caiov13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
