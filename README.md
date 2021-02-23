@@ -4,12 +4,12 @@
 
 ### Technologies i study 🚀
 <div class="row">
- <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="35" height="35"/>
- <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
- <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
- <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
- <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>
- <img src="https://img.icons8.com/color/452/typescript.png" alt="typescript" width="40" height="40"/> 
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="35" height="35"/>
+  <img src="https://img.icons8.com/color/452/typescript.png" alt="typescript" width="40" height="40"/>
+  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="40" height="40"/>
+  <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="40" height="40"/>
 </div>
 
 #### Find me 
