@@ -2,7 +2,7 @@
 
  My name is Caio vinicius, i am a programming student and i am currently studying analysis and systems development.
 
-### Technologies i study 🚀
+### Technologies 🚀
 <div class="row">
   <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="25" height="30"/>
   <img src="https://img.icons8.com/color/452/typescript.png" alt="typescript" width="30" height="30"/>
