@@ -4,7 +4,7 @@
 
 ### Technologies i study 🚀
 <div class="row">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="30" height="30"/>
+  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="25" height="30"/>
   <img src="https://img.icons8.com/color/452/typescript.png" alt="typescript" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="30" height="30"/>
   <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="30" height="30"/>
