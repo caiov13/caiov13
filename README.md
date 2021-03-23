@@ -1,19 +1,20 @@
-## Hi i'm Caio Vinicius 👋 
+## Caio Vinicius 
 
- My name is Caio vinicius, i am a programming student and i am currently studying analysis and systems development.
+### Olá 👋 
 
-### Technologies 🚀
-<div class="row">
-  <img src="https://cdn.svgporn.com/logos/javascript.svg" alt="javascript" width="25" height="30"/>
-  <img src="https://img.icons8.com/color/452/typescript.png" alt="typescript" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/react.svg" alt="react" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/nodejs-icon.svg" alt="nodejs" width="30" height="30"/>
-  <img src="https://img.icons8.com/color/452/mongodb.png" alt="mongodb" width="30" height="30"/>
-  <img src="https://cdn.svgporn.com/logos/git-icon.svg" alt="git" width="30" height="30"/>
-</div>
+Sou estudante de programação, apaixonado por tecnologias desde muito cedo, estou disposto a encarar desafios utilizando a programação como um meio para a solução.
 
-#### Find me: 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vinicius-275b6a199/)](https://www.linkedin.com/in/caio-vinicius-275b6a199/)
+* 🚀Estou estudando ReactJS, NodeJS, Typescript
+* ✉️ Entre em contato comigo:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vinicius-275b6a199/)](https://www.linkedin.com/in/caio-vinicius-275b6a199/) 
+ | 
+ [![Gmail Badge](https://img.shields.io/badge/-caiov030@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiov030@gmail.com)](mailto:caiov030@gmail.com)
+ 
+ 
+ <p align="center">
+ 
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+
+</p>
 
 
 
@@ -34,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 
