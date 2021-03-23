@@ -12,7 +12,7 @@ Sou estudante de programação, apaixonado por tecnologias desde muito cedo, est
  
  <p align="center">
  
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=UTILIZADOR&layout=compact&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?caiov13=UTILIZADOR&layout=compact&theme=dracula)
 
 </p>
 
