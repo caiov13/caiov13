@@ -2,7 +2,7 @@
 
 ### Olá 👋 
 
-Sou estudante de programação, apaixonado por tecnologias desde muito cedo, estou disposto a encarar desafios utilizando a programação como um meio para a solução.
+Sou estudante de programação, apaixonado por tecnologias desde muito cedo, atualmente estudo as melhores tecnologias do mercado para desenvolvimento web.
 
 * 🚀Estou estudando ReactJS, NodeJS, Typescript
 * ✉️ Entre em contato comigo:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vinicius-275b6a199/)](https://www.linkedin.com/in/caio-vinicius-275b6a199/) 
