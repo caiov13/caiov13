@@ -6,8 +6,6 @@ Sou estudante de programação, apaixonado por tecnologias, atualmente estudo as
 
 * 🚀Estou estudando ReactJS, NodeJS, Typescript
 * ✉️ Entre em contato comigo:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vinicius-275b6a199/)](https://www.linkedin.com/in/caio-vinicius-275b6a199/) 
- | 
- [![Gmail Badge](https://img.shields.io/badge/-caiov030@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:caiov030@gmail.com)](mailto:caiov030@gmail.com)
  
  
  <p align="center">
