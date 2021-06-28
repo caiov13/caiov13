@@ -4,7 +4,7 @@
 
 Sou estudante de programação, apaixonado por tecnologias, atualmente estudo as melhores tecnologias do mercado para desenvolvimento web.
 
-* 🚀Estou estudando ReactJS, NodeJS, Typescript
+* 🚀Estou estudando ReactJS, Typescript
 * ✉️ Entre em contato comigo:  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caio-vinicius-275b6a199/)](https://www.linkedin.com/in/caio-vinicius-275b6a199/) 
  
  
