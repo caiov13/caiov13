@@ -9,7 +9,7 @@ Sou estudante de programação, apaixonado por tecnologias, atualmente estudo as
  
  <p align="center">
  
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiov13&layout=compact&theme=highcontrast)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=caiov13&layout=compact&theme=transparent)
 
 </p>
 
