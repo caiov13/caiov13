@@ -1,7 +1,5 @@
 # Caio Vinicius 
 
-### Sobre mim 
-
 Sou estudante de programação, formado em análise e desenvolvimento de sistemas. Atualmente estou estudando as melhores tecnologias para desenvolvimento web.
 
 <div style="display: inline_block">
